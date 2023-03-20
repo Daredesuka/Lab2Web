@@ -17,7 +17,7 @@ Menambahkan variable PHP pada program.
 #Langkah 3
 
 Predefine Variable $_GET
-Untuk mengaksesnya gunakan URL: http://localhost/lab2_php_dasar/php_dasar.php?nama=Ogie K.Y
+Untuk mengaksesnya gunakan URL: http://localhost/lab2_php_dasar/php_dasar.php?nama=Ogie%20K.Y
 ![3](https://user-images.githubusercontent.com/127408886/226324133-e58978a6-fa98-4cec-92d9-79777a9f969a.png)
 
 #Langkah 4
